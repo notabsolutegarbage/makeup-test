@@ -1,1 +1,1 @@
-# Ini yg di ganti disetiap lipsdetailproduct. di cek aja lagi
+# Ini yg di ganti lipsdetailproduct. di cek aja lagi
