@@ -1,0 +1,11 @@
+.cardDetail {
+    box-shadow: 0 0 10px #889390;
+    background-color: white;
+    width: 300px;
+    border-radius: 10px;
+    margin: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

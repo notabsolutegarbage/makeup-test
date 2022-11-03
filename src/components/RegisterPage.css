@@ -1,0 +1,29 @@
+.title {
+    display: flex;
+    justify-content: space-evenly;
+    font-family: 'Poppins', sans-serif;
+    color: #F47181;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Poppins', sans-serif;
+    color: #F47181;
+}
+
+.form-card {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+a :hover {
+    color:#F47181;
+}
+
+
+
+

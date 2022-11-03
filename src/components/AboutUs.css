@@ -1,0 +1,32 @@
+.about-us img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+    margin-bottom: 0;
+    width: 100%;
+    height: 570px;
+}
+
+.about-us {
+    display: flex;
+
+}
+
+.description {
+    text-align: center;
+    font-size: 15px;
+}
+
+.ul {
+    width: 100%;
+    height: 55px;
+    background-color: #E1E7EC;
+    margin-top: 0;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    font-family: 'Poppins', sans-serif;
+}
