@@ -26,6 +26,7 @@ const DetailProduct = () => {
     // };
     // getProduct();
     const fetchData = async () => {
+      setLoading(true);
       const result = await axios(
         "https://makeup-api.herokuapp.com/api/v1/products.json?product_category=lipstick&product_type=lipstick"
       );
@@ -35,6 +36,7 @@ const DetailProduct = () => {
       );
 
       setProduct(productDetail);
+      setLoading(false);
     };
     fetchData();
   }, []);
